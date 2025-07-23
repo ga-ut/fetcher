@@ -31,4 +31,4 @@ Bun.spawnSync({
 	],
 });
 
-await Bun.write("dist/index.d.mts", "dist/index.d.ts");
+await Bun.write("dist/index.d.mts", Bun.file("dist/index.d.ts"));

@@ -1,6 +1,6 @@
 {
 	"name": "@ga-ut/fetcher",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "A simple and powerful fetch wrapper with interceptors.",
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
